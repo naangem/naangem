@@ -1,0 +1,9 @@
+{
+	"name": "mithranadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41635a8c-a0fd-4ba3-8b27-e8eec2f127a8",
+		"tenantId": "4406e2f0-156d-4ade-a832-13a97b61be66"
+	}
+}
